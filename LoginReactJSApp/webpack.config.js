@@ -9,7 +9,7 @@ module.exports = {
    },
    devServer: {
       inline: true,
-      port: 5011
+      port: 8001
    },
    module: {
       rules: [

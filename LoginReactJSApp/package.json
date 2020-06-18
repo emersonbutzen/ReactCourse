@@ -1,7 +1,6 @@
 {
-  "name": "ReactBootstrap",
+  "name": "LoginReactJSApp",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "start": "webpack-dev-server --mode development --open --hot",
@@ -24,5 +23,6 @@
     "babel-preset-env": "^1.7.0",
     "babel-preset-react": "^6.24.1",
     "html-webpack-plugin": "^4.3.0"
-  }
+  },
+  "description": ""
 }
