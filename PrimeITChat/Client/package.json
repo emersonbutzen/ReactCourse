@@ -1,0 +1,35 @@
+{
+  "name": "Client",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "react-sripts start",
+    "build": "react-sripts build",
+    "test": "react-sripts test",
+    "eject": "react-sripts eject"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^4.5.0",
+    "query-string": "^6.13.1",
+    "react": "^16.13.1",
+    "react-bootstrap": "^1.0.1",
+    "react-emoji": "^0.5.0",
+    "react-router-dom": "^5.2.0",
+    "react-scroll-to-bottom": "^3.0.0",
+    "socket.io-client": "^2.3.0",
+    "webpack": "^4.43.0",
+    "webpack-cli": "^3.3.12",
+    "webpack-dev-server": "^3.11.0"
+  },
+  "devDependencies": {
+    "babel-core": "^6.26.3",
+    "babel-loader": "^7.1.5",
+    "babel-preset-env": "^1.7.0",
+    "babel-preset-react": "^6.24.1",
+    "html-webpack-plugin": "^4.3.0"
+  }
+}
