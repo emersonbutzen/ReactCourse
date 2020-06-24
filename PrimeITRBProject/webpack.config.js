@@ -6,8 +6,10 @@ module.exports = {
   output: {
     path: path.join(__dirname, "/bundle"),
     filename: "index_bundle.js",
+    publicPath: "/",
   },
   devServer: {
+    historyApiFallback: true,
     inline: true,
     port: 8080,
   },

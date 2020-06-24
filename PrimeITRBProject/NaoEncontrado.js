@@ -1,9 +1,11 @@
-import React from 'react';
+import React from "react";
 
-export const NaoEncontrado = () => {
-    return (
-        <div>
-            <h2>Não Encontrado!</h2>            
-        </div>
-    )
-}
+const NaoEncontrado = () => {
+  return (
+    <div>
+      <h2>Não Encontrado!</h2>
+    </div>
+  );
+};
+
+export default NaoEncontrado;
