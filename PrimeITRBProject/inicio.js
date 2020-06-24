@@ -3,7 +3,7 @@ import React from "react";
 export const Inicio = () => {
   return (
     <div>
-      <h1>Bem vindo!</h1>
+      <h2>Bem vindo!</h2>
       <p>
         Video provides a powerful way to help you prove your point. When you
         click Online Video, you can paste in the embed code for the video you
