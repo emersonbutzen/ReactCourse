@@ -1,0 +1,11 @@
+Carlos Lima             contacts
+Diogo Martins           footer
+Emerson Butzen          home
+Fernando Sousa          loggedinusers
+Igor Oliveira           menu
+João Soares Mendes      services
+Leonardo                sociallinks
+Otavio                  clock
+Rafael Ortolan          home
+Sergio                  services
+Valeriy Apostolyuk      contacts

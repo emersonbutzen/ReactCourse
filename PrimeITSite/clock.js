@@ -1,5 +1,9 @@
-import React from "react";
+import React, { Component } from "react";
 
 export const Clock = () => {
-  return <p></p>;
+  return (
+    <div>
+      <h2>Horas: {new Date().toLocaleTimeString()}</h2>
+    </div>
+  );
 };
